@@ -1,4 +1,4 @@
-# NotD-Aftermath-RE
+# Night of the Dead Aftermath RE
 
 Night of the Dead Aftermath is a custom zombie survival map for the game Warcraft 3 produced originally by Starlite. It was the most downloaded survival map and was awarded Spotlight Map status by Blizzard in May 2006.
 
